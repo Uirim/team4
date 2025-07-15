@@ -1,4 +1,4 @@
-
+<img width="300" height="402" alt="image" src="https://github.com/user-attachments/assets/f9866bb5-cd2b-4bcc-8897-a163171084f8" />
 
 # 학과 통계 열람기
 
@@ -26,7 +26,16 @@
 
 ---
 
-## 시작 가이드
+## 📂 시작 가이드
+### Requirements
+- Node.js 14.19.3
+- Npm 9.2.0
+- Django 4.0
+- Django REST Framework
+- PostgreSQL
+- Tesseract OCR
+- Kakao OCR API
+- Chart.js
 
 Requirements
 - Node.js 14.19.3
@@ -40,6 +49,7 @@ Requirements
 ---
 
 ## 팀 구성
+
 
 ---
 
