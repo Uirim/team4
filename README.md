@@ -32,6 +32,36 @@
 
 ## 팀 구성
 
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <strong>팀장 신성현</strong><br/>
+      <img width="160px" src="https://via.placeholder.com/160?text=Profile" />
+      <p>21학번 백엔드</p>
+    </td>
+    <td align="center" width="20%">
+      <strong>이나나</strong><br/>
+      <img width="160px" src="https://via.placeholder.com/160?text=Profile" />
+      <p>23학번 백엔드</p>
+    </td>
+    <td align="center" width="20%">
+      <strong>강 산</strong><br/>
+      <img width="160px" src="https://via.placeholder.com/160?text=Profile" />
+      <p>23학번 프론트엔드</p>
+    </td>
+    <td align="center" width="20%">
+      <strong>김의림</strong><br/>
+      <img width="160px" src="https://via.placeholder.com/160?text=Profile" />
+      <p>23학번 프론트엔드</p>
+    </td>
+    <td align="center" width="20%">
+      <strong>곽유나</strong><br/>
+      <img width="160px" src="https://via.placeholder.com/160?text=Profile" />
+      <p>24학번 디자이너</p>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 기술 스택
