@@ -41,33 +41,37 @@
 
 ## 팀 구성
 
-<table>
+<table style="width:100%; border-collapse: collapse;">
   <tr>
-    <td align="center" width="20%">
-      <strong>팀장 신성현</strong><br/>
-      <img width="160px" src="https://via.placeholder.com/160?text=Profile" />
-      <p>21학번 백엔드</p>
+    <th style"border:1px solid #ddd; padding:8px; text-align:center;">팀장 신성현</th>
+    <th style"border:1px solid #ddd; padding:8px; text-align:center;">이나나</th>
+    <th style"border:1px solid #ddd; padding:8px; text-align:center;">강 산</th>
+    <th style"border:1px solid #ddd; padding:8px; text-align:center;">김의림</th>
+    <th style"border:1px solid #ddd; padding:8px; text-align:center;">곽유나</th>
+  </tr>
+  <tr>
+    <td style="border:1px solid #ddd; padding:8px; text-align:center;">
+      <img src="https://via.placeholder.com/160x160.png?text=Profile" width="160" height="160" />
     </td>
-    <td align="center" width="20%">
-      <strong>이나나</strong><br/>
-      <img width="160px" src="https://via.placeholder.com/160?text=Profile" />
-      <p>23학번 백엔드</p>
+    <td style="border:1px solid #ddd; padding:8px; text-align:center;">
+      <img src="https://via.placeholder.com/160x160.png?text=Profile" width="160" height="160" />
     </td>
-    <td align="center" width="20%">
-      <strong>강 산</strong><br/>
-      <img width="160px" src="https://via.placeholder.com/160?text=Profile" />
-      <p>23학번 프론트엔드</p>
+    <td style="border:1px solid #ddd; padding:8px; text-align:center;">
+      <img src="https://via.placeholder.com/160x160.png?text=Profile" width="160" height="160" />
     </td>
-    <td align="center" width="20%">
-      <strong>김의림</strong><br/>
-      <img width="160px" src="https://via.placeholder.com/160?text=Profile" />
-      <p>23학번 프론트엔드</p>
+    <td style="border:1px solid #ddd; padding:8px; text-align:center;">
+      <img src="https://via.placeholder.com/160x160.png?text=Profile" width="160" height="160" />
     </td>
-    <td align="center" width="20%">
-      <strong>곽유나</strong><br/>
-      <img width="160px" src="https://via.placeholder.com/160?text=Profile" />
-      <p>24학번 디자이너</p>
+    <td style="border:1px solid #ddd; padding:8px; text-align:center;">
+      <img src="https://via.placeholder.com/160x160.png?text=Profile" width="160" height="160" />
     </td>
+  </tr>
+  <tr>
+    <td style="border:1px solid #ddd; padding:8px; text-align:center;"><strong>21학번 백엔드</strong></td>
+    <td style="border:1px solid #ddd; padding:8px; text-align:center;"><strong>23학번 백엔드</strong></td>
+    <td style="border:1px solid #ddd; padding:8px; text-align:center;"><strong>23학번 프론트엔드</strong></td>
+    <td style="border:1px solid #ddd; padding:8px; text-align:center;"><strong>23학번 프론트엔드</strong></td>
+    <td style="border:1px solid #ddd; padding:8px; text-align:center;"><strong>24학번 디자이너</strong></td>
   </tr>
 </table>
 
