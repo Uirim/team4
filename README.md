@@ -26,10 +26,17 @@
 
 ---
 
-## 시작 가이드
+## 📂 시작 가이드
 
 ### Requirements
 - Node.js 14.19.3
+- Npm 9.2.0
+- Django 4.0
+- Django REST Framework
+- PostgreSQL
+- Tesseract OCR
+- Kakao OCR API
+- Chart.js
 ---
 
 ## 팀 구성
