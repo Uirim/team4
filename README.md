@@ -36,6 +36,21 @@
 
 ## 기술 스택
 
+### Backend
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-009688?style=for-the-badge&logo=django&logoColor=white)
+
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### OCR 처리
+![Kakao OCR](https://img.shields.io/badge/Kakao%20OCR-FEE500?style=for-the-badge&logo=kakaotalk&logoColor=black)
+![Tesseract](https://img.shields.io/badge/Tesseract-0099FF?style=for-the-badge&logo=tesseract&logoColor=white)
+
+### Visualization
+![Chart.js](https://img.shields.io/badge/Chart.js-100000?style=for-the-badge&logo=chartdotjs&logoColor=F7931E)
+
+
 ---
 
 ## 아키택쳐
